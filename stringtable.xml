@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project name="aaf">
+    <Package name="medical">
+        <Key ID="STR_AAF_Medical_Tranfuse_Blood">
+			<Original>Transfuse Blood</Original>
+            <English>Transfuse Blood</English>
+        </Key>
+        <Key ID="STR_AAF_Medical_Blood_IV">
+			<Original>Give Blood IV</Original>
+			<English>Give Blood IV</English>
+        </Key>
+		<Key ID="STR_AAF_Medical_Blood_Kit">
+			<Original>Blood IV Kit</Original>
+			<English>Blood IV Kit</English>
+        </Key>
+		</Package>
+</Project>
